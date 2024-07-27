@@ -1,0 +1,4 @@
+site_name: JRI R&D Knowledge Base
+nav:
+  - Home: index.md
+  - About: about.md
